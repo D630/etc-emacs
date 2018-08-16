@@ -212,7 +212,7 @@
   (setq solarized-italic nil)
   (setq solarized-contrast "normal")
   (setq solarized-visibility "normal")
-  (set-default-font "Monospace-9")
+  (set-default-font "Monospace-10")
   :config
   (load-theme 'solarized t))
 
